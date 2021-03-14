@@ -2,7 +2,7 @@
     "compilerOptions": {
         "target": "es5",
         "module": "commonjs"
-    },
+    },JsonSQLJAVA
     "exclude": [
         "node_modules",
         "vscode.d.ts",
